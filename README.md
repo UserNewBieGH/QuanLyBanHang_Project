@@ -6,3 +6,6 @@ Học phần: Chuyên đề chuyên sâu PTPM 1 - Trường DdaH Nguyễn Tất 
 ## Hướng dẫn cài đặt & Chạy ứng dụng:
 - Bước 1: Clone kho luu trữ: git clone <url>
 - Bước 2: Cài đặt phụ thuộc: npm install / composer install
+# QuanLyBanHang_Project
+Trường Đại học Nguyễn Tất Thành 
+Chuyên đề Chuyên sâu Hệ thống phần mềm 1
